@@ -1,8 +1,11 @@
-# GateKeeper_utils
+# GateKeeper Utils 说明手册
 macOS Sierra GateKeeper调整工具
 
 macOS Sierra 增强了GateKeeper的安全性，使系统默认禁止未签名/未知签名的App的运行。
 这样做的确增强了一定的安全性，但是对于一些高级用户来说增加了不少麻烦。
+
+如果您不了解什么是GateKeeper，那么我推荐您**不要修改此安全措施**，为了保障您的系统安全。
+若想了解更多关于GateKeeper的信息，请参阅[Apple官方文档](https://support.apple.com/zh-cn/HT202491)。
 
 前一阵子发微博讲过关闭GateKeeper的方法，但是又有一些朋友说这样做降低了系统的安全性，如果遇到恶意程序并不能防御。
 
