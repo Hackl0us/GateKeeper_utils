@@ -12,18 +12,18 @@ macOS Sierra 增强了GateKeeper的安全性，使系统默认禁止未签名/�
 所以我考虑到了一种两全其美的方法，并粗略编写了这个脚本。
 
 ## 使用方法
-您若要直接使用本工具，请直接下载`GateKeeperUtils`，并保存到自定义路径下。
+您若要**直接使用**本工具，请在**Release标签**直接下载`GateKeeperUtils_for_macOS`，并保存到自定义路径下。
 
 ### 准备工作
 需要让该脚本具有可执行权限。
 
 1. 运行 终端.app
-2. 输入并执行命令 `chmod +x /路径/GateKeeperUtils`
+2. 输入并执行命令 `chmod +x /保存的路径/GateKeeperUtils_for_macOS`
     
 **不要关闭**终端窗口，继续选择操作。
     
 ### 若要修改GateKepper状态
-1. 输入命令 `/路径/GateKeeperUtils`
+1. 输入命令 `/保存的路径/GateKeeperUtils_for_macOS`
     
 ### 若要解封对App的运行限制，且不关闭GateKeeper
 1. 将`GateKeeperUtils`文件拖入到终端窗口。
